@@ -10,8 +10,9 @@ CSS,
 JavaScript
 
 Installation
-To run this application locally, follow these steps:
-*Clone this repository to your local machine:
+***
+* To run this application locally, follow these steps:
+* Clone this repository to your local machine:
 *Navigate into the project directory: cs "your directory name"
 3.Install the dependencies: npm i
 4.Start the server: node index.js
