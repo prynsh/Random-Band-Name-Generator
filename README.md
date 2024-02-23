@@ -10,6 +10,10 @@ CSS,
 JavaScript, 
 
 Installation
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 To run this application locally, follow these steps:
 1.Clone this repository to your local machine:
 2.Navigate into the project directory: cs "your directory name"
