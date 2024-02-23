@@ -7,16 +7,12 @@ Express.js,
 EJS (Embedded JavaScript), 
 HTML, 
 CSS, 
-JavaScript, 
+JavaScript
 
 Installation
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
 To run this application locally, follow these steps:
-1.Clone this repository to your local machine:
-2.Navigate into the project directory: cs "your directory name"
+*Clone this repository to your local machine:
+*Navigate into the project directory: cs "your directory name"
 3.Install the dependencies: npm i
 4.Start the server: node index.js
 5.Open your web browser and visit http://localhost:3000 to view the application.
